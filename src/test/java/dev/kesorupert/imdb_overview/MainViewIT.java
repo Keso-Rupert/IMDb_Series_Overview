@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package dev.kesorupert.imdb_overview;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
